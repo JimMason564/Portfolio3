@@ -1,12 +1,27 @@
-Updated portfolio
+## Updated Work Portfolio
 
-This assignment was to provide an updated profile with styling using Bootstrap or another library. It needed to include a picture, contact information, links to my repository, at least two projects that show my web development skills, and an About Me section. The site needed to be fully functional.
+## Description
+This is a work portfolio that showcases a variety of my work. The projects I picked for my portfolio display the diversity of skills that I have across multiple technologies. 
+
+## Technology Used
+HTML, Bootstrap
+
+## Requirements
+* Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
+
+* Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
+
+* Updated resume
+
+* Updated LinkedIn profile
 
 
-Repo: https://github.com/JimMason564/WorkPortfolio Deployed site: https://jimmason564.github.io/WorkPortfolio/
+## Github Repo
+https://github.com/JimMason564/Portfolio3
 
-Technology used: HTML, CSS, Bootstrap 
+## Deployed Repo
+https://jimmason564.github.io/Portfolio3/
 
-
-![image](https://user-images.githubusercontent.com/100049308/171329381-7937976a-b713-44aa-b89f-1f492104dc3f.png)
+## Screenshot
+![image](/views/images/screenshot.jpg)
 
