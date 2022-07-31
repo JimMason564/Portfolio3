@@ -23,5 +23,5 @@ https://github.com/JimMason564/Portfolio3
 https://jimmason564.github.io/Portfolio3/
 
 ## Screenshot
-![image](/views/images/screenshot.jpg)
+![image](./Documents/screenshot.jpeg)
 
